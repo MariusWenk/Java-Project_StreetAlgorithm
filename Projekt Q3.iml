@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/ibxm.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/jinput.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/jnlp.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/jogg-0.0.7.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/jorbis-0.0.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/lwjgl_util_applet.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/lwjgl_util.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/lwjgl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/natives-linux.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/natives-mac.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/natives-windows.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/slick-examples.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/slick.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/tinylinepp.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/../Java Eclipse/Projekt Q3/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../Java Eclipse/Projekt Q3/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../Java Eclipse/Projekt Q3">
+      <sourceFolder url="file://$MODULE_DIR$/../Java Eclipse/Projekt Q3/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="ibxm.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/ibxm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jinput.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/jinput.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jnlp.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/jnlp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jogg-0.0.7.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/jogg-0.0.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jorbis-0.0.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/jorbis-0.0.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lwjgl_util_applet.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/lwjgl_util_applet.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lwjgl_util.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/lwjgl_util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lwjgl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/lwjgl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="natives-linux.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/natives-linux.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="natives-mac.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/natives-mac.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="natives-windows.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/natives-windows.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slick-examples.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/slick-examples.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slick.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/slick.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tinylinepp.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Java Eclipse/Projekt Q3/lib/tinylinepp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
